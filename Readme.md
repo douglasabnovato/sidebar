@@ -41,7 +41,7 @@ O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassNam
 
 #### 🚀 Requisitos para o desafio 
 
-- [ ] 1. Você deve criar uma sidebar que que altere o estado entre aberto e fechado conforme o clique do usuário.
+- [ ] 1. Você deve criar uma sidebar que altere o estado entre aberto e fechado conforme o clique do usuário.
 - [ ] 2. Você poderá usar como modelo o layout do Figma disponibilizado acima.
  
 ### 🎨 Style Guide
@@ -78,6 +78,8 @@ Bora lá?
 ### 📅 Entrega
 
 Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
+
+- [Referências](https://www.youtube.com/watch?v=wEfaoAa99XY)
 
 #### 📅 Tarefas
 
