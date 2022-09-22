@@ -79,7 +79,7 @@ Bora lá?
 
 Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
-- [Referências](https://www.youtube.com/watch?v=wEfaoAa99XY)
+- [Referências](https://www.codinglabweb.com/2021/04/responsive-side-navigation-bar-in-html.html)
 
 #### 📅 Tarefas
 
