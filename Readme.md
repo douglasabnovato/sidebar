@@ -93,7 +93,7 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 
 #### 📅 Telas
 
-- Desktop
+- Desktop, evolução do layout:
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
   <img alt="versão 1 do projeto" title="#receita" src="./.github/tela-1.jpg">
