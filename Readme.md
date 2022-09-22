@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#sidebar" src="./.github/sidebar-template.jpg">
+  <img alt="versão 1 do projeto" title="#sidebar" src="./.github/tela-desktop-2.jpg">
 </p>  
 
 ### 💻 Sobre o desafio
@@ -29,11 +29,11 @@ Neste desafio você deve criar uma sidebar. Quando o usuário clicar no ícone d
 
 Neste desafio você deve criar uma sidebar como na imagem acima. Quando o usuário clicar no ícone do menu isso deve fazer com que o estado da sidebar mude entre "aberto", mostrando ícones e texto e "fechado", mostrando apenas os ícones.
 
-#### 💡 [Guia Estelar de Javascript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script)
-O conteúdo esclarece plugin de preview HTML, tags, atributos, semântica, listas, abreviações, listas, representação de código, URLs, diretórios, tabelas, THead, TBody, colgroup, cabeçalho, meta, favicon, meta SEO e meta social.
+#### 💡 [Guia Estelar de Javascript](https://app.rocketseat.com.br/node/o-guia-estelar-de-java-script) 
+As aulas deste conjunto abordam tipos de dados, variáveis, funções, manipulação de dados, expressões e aplicabilidade dos recursos.
 
 #### 💡 [Pilotando com a DOM](https://app.rocketseat.com.br/node/pilotando-com-a-dom)
-O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, shorthand, funções, devTools e vender prefixes.
+O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassName e ByTagName, além de querySelector, querySelectorAll, textContent, innerText, innerHTML, Value, alteração com style, classList, parentElement e parentNode, elementos filhos e irmãos, insertBefore, métodos para adição de eventos via JS.
 
 #### 💡 [Alinhando os planetas](https://app.rocketseat.com.br/node/flexbox) 
 
@@ -41,7 +41,7 @@ O conteúdo aborda anatomia, seletores, box model, cascata, especificidade, shor
 
 #### 🚀 Requisitos para o desafio 
 
-- [ ] 1. Você deve criar uma sidebar que que altere o estado entre aberto e fechado conforme o clique do usuário.
+- [ ] 1. Você deve criar uma sidebar que altere o estado entre aberto e fechado conforme o clique do usuário.
 - [ ] 2. Você poderá usar como modelo o layout do Figma disponibilizado acima.
  
 ### 🎨 Style Guide
@@ -79,20 +79,25 @@ Bora lá?
 
 Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de demonstrar seus conhecimentos para oportunidades futuras.
 
+- [Referências](https://www.codinglabweb.com/2021/04/responsive-side-navigation-bar-in-html.html)
+
 #### 📅 Tarefas
 
-- [ ] Organizando os detalhes do projeto no readme.md
-- [ ] Uma branch main e uma developer
+- [x] Organizando os detalhes do projeto no readme.md
+- [x] Uma branch main e uma developer
 - [ ] Favicon
 - [ ] [Learn Responsive Design](https://web.dev/learn/design/)
 - [ ] [Learn CSS](https://web.dev/learn/css/)
+- [x] boxicons: biblioteca de ícones
+- [x] Estrutura do html com os elementos identificados na tarefa: sidebar com profile, itens menu, card avatar
 
 #### 📅 Telas
 
-- Desktop
+- Desktop, evolução do layout:
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#receita" src="./.github/tela-1.jpg" width="400px">
+  <img alt="versão 1 do projeto" title="#receita" src="./.github/tela-desktop-2.jpg">
+  <img alt="versão 1 do projeto" title="#receita" src="./.github/tela-desktop-1.jpg">
 </p>
 
 Feito com ❤️ por Douglas A B Novato. 👋🏽 [Entre em contato!](https://www.linkedin.com/in/douglasabnovato/)
