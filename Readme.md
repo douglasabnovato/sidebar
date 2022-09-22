@@ -3,7 +3,7 @@
 </h4>
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
-  <img alt="versão 1 do projeto" title="#sidebar" src="./.github/tela-desktop-2.jpg">
+  <img alt="versão 1 do projeto" title="#sidebar" src="./.github/tela-desktop-3-open.jpg">
 </p>  
 
 ### 💻 Sobre o desafio
@@ -41,8 +41,8 @@ O módulo explora atributos e funcionalidades da DOM, getElementById, ByClassNam
 
 #### 🚀 Requisitos para o desafio 
 
-- [ ] 1. Você deve criar uma sidebar que altere o estado entre aberto e fechado conforme o clique do usuário.
-- [ ] 2. Você poderá usar como modelo o layout do Figma disponibilizado acima.
+- [x] 1. Você deve criar uma sidebar que altere o estado entre aberto e fechado conforme o clique do usuário.
+- [x] 2. Você poderá usar como modelo o layout do Figma disponibilizado acima.
  
 ### 🎨 Style Guide
 
@@ -85,7 +85,7 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 
 - [x] Organizando os detalhes do projeto no readme.md
 - [x] Uma branch main e uma developer
-- [ ] Favicon
+- [x] Favicon
 - [ ] [Learn Responsive Design](https://web.dev/learn/design/)
 - [ ] [Learn CSS](https://web.dev/learn/css/)
 - [x] boxicons: biblioteca de ícones
@@ -96,6 +96,8 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 - Desktop, evolução do layout:
 
 <p align="center" style="display: flex; align-items: flex-start; justify-content: center;">
+  <img alt="versão 1 do projeto" title="#receita" src="./.github/tela-desktop-3-close.jpg">
+  <img alt="versão 1 do projeto" title="#receita" src="./.github/tela-desktop-3-open.jpg">
   <img alt="versão 1 do projeto" title="#receita" src="./.github/tela-desktop-2.jpg">
   <img alt="versão 1 do projeto" title="#receita" src="./.github/tela-desktop-1.jpg">
 </p>
