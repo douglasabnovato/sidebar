@@ -88,7 +88,8 @@ Após concluí-los, adicionar esses códigos ao seu Github é uma boa forma de d
 - [ ] Favicon
 - [ ] [Learn Responsive Design](https://web.dev/learn/design/)
 - [ ] [Learn CSS](https://web.dev/learn/css/)
-- [ ] boxicons
+- [x] boxicons: biblioteca de ícones
+- [x] Estrutura do html com os elementos identificados na tarefa: sidebar com profile, itens menu, card avatar
 
 #### 📅 Telas
 
